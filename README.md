@@ -42,7 +42,7 @@ These initially included three file types:
 1. Start with the function you are looking for and locate the folder.
 2. Open the file (Abbreviation)_Skills.md - this contains the functional requirements for each level.
 3. Find the level you are looking for and review the skills.
-4. To determine where you sit in the salary department, we provided Boston-area salary information. Just a note: Salaries in Boston tend to be roughly 25% greater than the US national average.
+4. To determine where you sit in the salary department, we provided US salary information. Just a note: These are not based on some paid salary survey but what we actuially see in the indsutry in the Fall of 2024.
 
 ## Contributing
 
