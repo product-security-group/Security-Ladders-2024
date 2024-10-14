@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[**Product Security Group**](https://www.productsecuritygroup.com) (PSG) offers Security Ladders; a collection of documents to categorize the knowledge and experience expected of security experts at a given point during their careers.
+[**Product Security Group**](https://www.productsecuritygroup.com) (PSG) offers Security Ladders, a collection of documents to categorize the knowledge and experience expected of security experts at a given point during their careers.
 
 ## About Time
 
@@ -17,13 +17,13 @@ Well, in our journey through the ranks we had to make these up as we went. That 
 
 ## LinkedIn Series
 
-We are going to do things a bit different this time and post out our discussions on Linkedin. We did not get alot of feedback on the previous platform so the hope is we can faciliate a more lively discussion. More to come as we post.   
+We are going to do things a bit differently this time and post out our discussions on Linkedin. We did not get a lot of feedback on the previous platform so the hope is that we can faciliate a more lively discussion. More to come as we post.   
 
 ## General structure
 
 ### Skills
 
-Specific area folders in `root` specifies a specific career track in the security field. Initially, Security Ladders covered 7 security areas:
+The area folders in `root` specify a career track in the security field. Initially, Security Ladders covered 6 security areas:
 
 * Business Security Manager/ Chief Security Officer
 * Information Risk / GRC
@@ -32,7 +32,7 @@ Specific area folders in `root` specifies a specific career track in the securit
 * Application / Product Security
 * Security Operations (SOC)
 
-These initially included three file types:
+These initially included two file types:
 
 * [AREA]_Skills.md - Expected functional duties/knowledge
 * [AREA]_Salary.md - Salary/time-at-level expectations
@@ -42,7 +42,7 @@ These initially included three file types:
 1. Start with the function you are looking for and locate the folder.
 2. Open the file (Abbreviation)_Skills.md - this contains the functional requirements for each level.
 3. Find the level you are looking for and review the skills.
-4. To determine where you sit in the salary department, we provided US salary information. Just a note: These are not based on some paid salary survey but what we actuially see in the indsutry in the Fall of 2024.
+4. To determine where you sit in the salary department, we provided US salary information. Just a note: These are not based on some paid salary survey but what we actually see in the indsutry in the Fall of 2024.
 
 ## Contributing
 
