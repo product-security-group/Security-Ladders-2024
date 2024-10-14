@@ -8,7 +8,7 @@
 
 Well, yes. It has been almost 4 years since we first released our career laders out to the world. A lot has changed both in the industry and our thinking. You will see this reflected in the new ladders and skills. More on that later.
 
-
+## Why
 Well, in our journey through the ranks we had to make these up as we went. That coupled with the number of folks we mentor asking us how to advance, we felt the best way to help is to open source what we developed so the community could benefit from what we have learned. They are by no means complete but they are a good start for folks that need some guidance.
 
 ## Change Log
