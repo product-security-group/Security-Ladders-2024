@@ -25,11 +25,11 @@ We are going to do things a bit differently this time and post out our discussio
 
 The area folders in `root` specify a career track in the security field. Initially, Security Ladders covered 6 security areas:
 
-* Business Security Manager/ Chief Security Officer
-* Information Risk / GRC
-* Infrastructure Security
-* Physical Security
-* Application / Product Security
+* Chief Information Security Officer
+* GRC
+* Security Engineering
+* Generalist
+* Product Security
 * Security Operations (SOC)
 
 These initially included two file types:
