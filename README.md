@@ -25,7 +25,7 @@ We are going to do things a bit differently this time and post out our discussio
 
 As we discussed in our posts, there is a new construct for career advancement we call "Career Stages". These stages are located in the following file:
 
-* Career-Stages.md 
+* CareerStages.md 
 
 ### Skills
 
