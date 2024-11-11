@@ -39,8 +39,8 @@ The area in `root` specify a career track in the security field. Initially, Secu
 
 These initially included two file types:
 
-* [AREA]_Skills.md - Expected functional duties/knowledge
-* [AREA]_Salary.md - Salary/time-at-level expectation
+* [AREA]-Skills.md - Expected functional duties/knowledge
+* [AREA]-Salary.md - Salary/time-at-level expectation
 
 ## How do I use these files
 
