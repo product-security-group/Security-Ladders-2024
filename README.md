@@ -13,7 +13,9 @@ Well, in our journey through the ranks we had to make these up as we went. That 
 
 ## Change Log
 
-:new: **11/11/2024** - We added the first drop of information to the repo [ PSEc, GRC, and SOC ]
+:new: **11/18/2024** - We added the GRC Salary information
+
+**11/11/2024** - We added the first drop of information to the repo [ PSEc, GRC, and SOC ]
 
 **10/14/2024** - We created a new repo and will be dropping the new ladders as they complete the peer review process. 
 
